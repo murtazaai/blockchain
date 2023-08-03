@@ -1,2 +1,2 @@
 # blockchain
- How to createa a blockchain?
+ The simplest blockchain.
